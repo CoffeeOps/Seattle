@@ -1,0 +1,16 @@
+<Name>,
+
+Thank you for joining the Seattle #CoffeeOps meet-up group. We're a welcoming community of folks who gather to talk about software development + operations (Dev + Ops) tools and culture in downtown Seattle.
+
+I hope you'll join us Friday, <date> from 8:00 - 9:15AM for the next #CoffeeOps meet-up.
+
+To promote a welcoming community, the CoffeeOps leadership team has adopted a
+Code of Conduct (https://github.com/CoffeeOps/Seattle/blob/master/code-of-conduct.md).
+
+What questions can I answer for you?
+
+Cheers,
+
+<Leader name>
+
+Seattle #CoffeeOps leadership team
