@@ -1,0 +1,14 @@
+<Name>,
+
+Just wanted to reach out about the CoffeeOps meet-up last Friday, <mm/dd>.
+
+Seattle CoffeeOps is a community-driven meet-up run by engineers. As such, we try to keep our meetings non-commercial and pitch-free.
+
+We do welcome all folks (beginners and experienced folks) who want to actively contribute to building the community. As an example, we do have recruiters and others in non-technical roles who attend regularly, listen, and participate in discussions. There are many opportunities for networking, and forming meaningful relationships that may result in referrals/sales/follow-up outside of CoffeeOps, but we are a community first and foremost.
+
+Hope to see you in the future. Please let me know if you have any questions.
+
+Thanks,
+
+<name>
+Seattle CoffeeOps leadership team
